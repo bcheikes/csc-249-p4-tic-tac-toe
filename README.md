@@ -53,16 +53,16 @@ Your work on this project will begin in Week 9 of the course. During weeks 10 th
 
 These are the milestones you must meet:
 
-* Mon Nov 13: Preliminary draft of message protocol specification with at least three messages sketched for both the client and the server.
-* Mon Nov 20: Second draft of message protocol specification; initial split of code into client and server. Client and server able to establish a network connection. Client able to send a string to the server.
-* Mon Nov 27: Third draft of message protocol specification with all messages defined. Each message specification must indicate which behavioral requirement it supports. Client and server able to exchange at least three messages each from the protocol specification.
-* Mon Dec 4: Near final draft of message protocol specification with all messages fully defined and linked to behavioral requirements. Client and server implementations shall demonstrably satisfy at least 12 of the behavioral requirements.
+* **Mon Nov 13:** Preliminary draft of message protocol specification with at least three messages sketched for both the client and the server.
+* **Mon Nov 20:** Second draft of message protocol specification; initial split of code into client and server. Client and server able to establish a network connection. Client able to send a string to the server.
+* **Mon Nov 27:** Third draft of message protocol specification with all messages defined. Each message specification must indicate which behavioral requirement it supports. Client and server able to exchange at least three messages each from the protocol specification.
+* **Mon Dec 4:** Near final draft of message protocol specification with all messages fully defined and linked to behavioral requirements. Client and server implementations shall demonstrably satisfy at least 12 of the behavioral requirements.
 
 All milestone products shall be submitted via Gradescope, accessed using links posted on the course Moodle site for the week in which they are due.
 
 ## Final Deliverables and Deadline
 
-Final deliverables for this project are due on the last day of class, Thursday December 13, at 11:59PM.
+Final deliverables for this project are due on the last day of class, **Thursday December 13, at 11:59PM.**
 
 Your final deliverables must include:
 
@@ -72,7 +72,7 @@ Your final deliverables must include:
 
 ## Grading Rubric
 
-This project counts for 20 points (out of 100) towards your final course grade.
+**This project counts for 20 points (out of 100) towards your final course grade.**
 
 Of these 20 points, 10 points will be based on an evaluation your message specification. A fully satisfactory message specification shall satisfy these criteria:
 
@@ -90,7 +90,7 @@ There are various ways for students to exceed the design requirements in ways th
 
 Here are some options to consider:
 
-* Go beyond exchange of formatted strings by integrating the _Application Client and Server_ approach described in the RealPython socket programming tutorial [https://realpython.com/python-sockets/]
+* Go beyond exchange of formatted strings by integrating the _Application Client and Server_ approach described in the RealPython socket programming tutorial (https://realpython.com/python-sockets/#application-client-and-server)
 * Instead of one client to one server, extend the server and client so that the server can manage a TicTacToe game between two different players running separate clients
 * Extend the server so that it can support more than one game at a time. That is, multiple clients where the server is playing one side of the game with each client.
 * Pitch me an idea of your own!
